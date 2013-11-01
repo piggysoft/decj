@@ -83,7 +83,3 @@ http://decj.viscenthuang.info/demo/page/basic.htm
 [User Guide]:
 
 https://github.com/Viscent/decj/wiki/User-Guide
-
-[License]
-
-decj is licensed under the MIT License: https://github.com/Viscent/decj/blob/master/LICENSE
